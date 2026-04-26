@@ -46,3 +46,18 @@ Corner plot grafiğinde μ ve σ arasında zayıf bir korelasyon görülmektedir
 ## Sonuç
 
 Bayesyen çıkarım, gürültülü verilerde bile doğru ve güvenilir parametre tahmini sağlar.
+
+
+---
+
+## Ek Analiz
+
+### 1. Prior Etkisi
+Dar bir prior seçildiğinde model sonuçları gerçek değerden sapabilir.
+
+### 2. Veri Miktarı
+Gözlem sayısı azaldığında belirsizlik artar ve sonuçlar daha az güvenilir olur.
+
+### 3. Korelasyon
+μ ve σ arasında güçlü bir korelasyon yoktur, parametreler büyük ölçüde bağımsızdır.
+
